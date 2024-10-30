@@ -65,19 +65,22 @@ body {
 }
 
 .simply-section {
-	background: #fff;
-	width: 120px;
-	height: 120px;
-	margin: 0 20px;
-	border-radius: 5px;
-	display: flex;
-	align-items: center;
-	justify-content: center;
+    background: #fff;
+    width: 120px;
+    height: 120px;
+    margin-top: 0;
+    margin-right: 34px;
+    margin-left: 20px;
+    margin-bottom: 0;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .simply-amount {
     display: block;
-    font-size: 60px;
+    font-size: 74px;
     font-weight: 700;
     text-align: center;
     color: black;
@@ -86,7 +89,7 @@ body {
 
 .simply-word {
     font-weight: 300;
-    font-size: 19px;
+    font-size: 26px;
     color: black;
     line-height: 40px;
 }
@@ -99,3 +102,4 @@ body {
     padding-bottom: 20px;
     padding-top: 20px;
 }
+
