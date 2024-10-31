@@ -80,7 +80,7 @@ body {
 
 .simply-amount {
     display: block;
-    font-size: 62px;
+    font-size: 69px;
     font-weight: 700;
     text-align: center;
     color: black;
@@ -90,7 +90,7 @@ body {
 
 .simply-word {
     font-weight: 300;
-    font-size: 19px;
+    font-size: 22px;
     color: black;
     line-height: 40px;
 }
