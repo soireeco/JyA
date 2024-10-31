@@ -66,8 +66,8 @@ body {
 
 .simply-section {
     background-color: #EAE9E9;
-    width: 120px;
-    height: 120px;
+    width: 126px;
+    height: 150px;
     margin-top: 0;
     margin-right: 40px;
     margin-left: 60px;
@@ -80,7 +80,7 @@ body {
 
 .simply-amount {
     display: block;
-    font-size: 69px;
+    font-size: 79px;
     font-weight: 700;
     text-align: center;
     color: black;
@@ -90,7 +90,7 @@ body {
 
 .simply-word {
     font-weight: 300;
-    font-size: 22px;
+    font-size: 26px;
     color: black;
     line-height: 40px;
 }
