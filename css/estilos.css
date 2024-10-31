@@ -65,12 +65,12 @@ body {
 }
 
 .simply-section {
-    background: #fff;
+    background-color: #EAE9E9;
     width: 120px;
     height: 120px;
     margin-top: 0;
-    margin-right: 34px;
-    margin-left: 20px;
+    margin-right: 40px;
+    margin-left: 40px;
     margin-bottom: 0;
     border-radius: 5px;
     display: flex;
@@ -80,19 +80,21 @@ body {
 
 .simply-amount {
     display: block;
-    font-size: 74px;
+    font-size: 50px;
     font-weight: 700;
     text-align: center;
     color: black;
     margin: auto;
+    text-shadow: 0px 0px;
 }
 
 .simply-word {
     font-weight: 300;
-    font-size: 26px;
+    font-size: 15px;
     color: black;
     line-height: 40px;
 }
+
 
 .nombre {
     margin-top: 40px;
@@ -101,5 +103,10 @@ body {
 .coctel {
     padding-bottom: 20px;
     padding-top: 20px;
+}
+.btn {
+    margin-top: 43px;
+    width: 440px;
+    height: 100px;
 }
 
