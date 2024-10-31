@@ -70,7 +70,7 @@ body {
     height: 120px;
     margin-top: 0;
     margin-right: 40px;
-    margin-left: 40px;
+    margin-left: 60px;
     margin-bottom: 0;
     border-radius: 5px;
     display: flex;
@@ -80,7 +80,7 @@ body {
 
 .simply-amount {
     display: block;
-    font-size: 50px;
+    font-size: 56px;
     font-weight: 700;
     text-align: center;
     color: black;
@@ -90,7 +90,7 @@ body {
 
 .simply-word {
     font-weight: 300;
-    font-size: 15px;
+    font-size: 18px;
     color: black;
     line-height: 40px;
 }
